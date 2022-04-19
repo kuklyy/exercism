@@ -1,0 +1,9 @@
+go 1.18
+
+use (
+	./annalyns-infiltration
+	./hello-world
+	./lasagna
+	./parallel-letter-frequency
+	./weather-forecast
+)
